@@ -1,0 +1,7 @@
+body {font-size: 15px;}
+#h1 {color: red;}
+#h2 {color: lightgreen; font-family: Arial, Helvetica, sans-serif; font: Arial;}
+#h3 {background-color: rgb(97, 202, 142); color: blue; text-decoration: underline; text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 100;}
+#h4 {color: rgb(231, 145, 164); text-shadow: black 1px 1px; font-weight: 700; font-size: 18px;}
+#h5 {color: rgba(207, 82, 14, 0.881); text-align: right; font-size: 27px; text-decoration: line-through; margin-top: 40px; margin-bottom: 30.060px;}
+#h6 {color: rgb(200, 200, 0); font-size: 25px; text-decoration: underline red 1px; margin-left: 35px; margin: 50px;}
