@@ -1,19 +1,11 @@
-article, footer{
-    width: 80%;
+article, footer{width: 80%;
     margin: auto;
-    background-color: white;
-  }
+    background-color: white;}
 
-  .bildeTilVenstre {
-    height: 7em;
-    float: left;
-  }
+  .bildeTilVenstre {height: 7em;
+    float: left;}
   
-  .bildeTilHoyre{
-    height:7em;
-    float: right;
-  }
+  .bildeTilHoyre{height:7em;
+    float: right;}
   
-  code{
-    font-size: 1.3em;
-  }
+  code{font-size: 1.3em;}

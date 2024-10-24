@@ -1,6 +1,16 @@
-#h1 {font-family: Papyrus; color: green; margin-bottom: 30px;}
-.title-medium {font-family: Verdana; color: rgb(91, 214, 255); text-decoration: underline; font-size: large;}
-#boss-selector {color: olivedrab; background-color: rgb(78, 231, 255);}
-.look-here {background-color: lightcyan; color: red; font-family: Arial;}
+#h1 {font-family: Papyrus; 
+    color: green; 
+    margin-bottom: 30px;}
+.title-medium {font-family: Verdana; 
+    color: rgb(91, 214, 255); 
+    text-decoration: underline; 
+    font-size: large;}
+#boss-selector {color: olivedrab; 
+    background-color: rgb(78, 231, 255);}
+.look-here {background-color: lightcyan; 
+    color: red; 
+    font-family: Arial;}
 .blue {color: blue;}
-.odd-even {text-align: center; color: red; font-family: Arial; background-color: rgb(245, 222, 255);}
+.odd-even {text-align: center; 
+    color: red; font-family: Arial; 
+    background-color: rgb(245, 222, 255);}
